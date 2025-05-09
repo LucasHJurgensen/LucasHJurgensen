@@ -29,9 +29,10 @@ My Stack: <br>
 </a>
 
 <hr />
-
 <div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasHJurgensen&theme=dark)](https://git.io/streak-stats)
+
 </div>
 
 <hr />
@@ -40,7 +41,6 @@ My Stack: <br>
   <a href="mailto:lucas_jurgensen@hotmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/lucashjurgensen"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.instagram.com/lucas.h.jurgensen"><img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="instagram"/></a>
-  <img src="https://dcbadge.vercel.app/api/shield/325048914661212162?style=flat" />
 </div>
 
 
