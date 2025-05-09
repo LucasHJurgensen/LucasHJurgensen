@@ -30,7 +30,9 @@ My Stack: <br>
 
 <hr />
 
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasHJurgensen&theme=dark)](https://git.io/streak-stats)
+</div>
 
 <hr />
 
