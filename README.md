@@ -12,7 +12,8 @@
 
 <hr />
 
-My Stack: <br>
+My Stack: 
+<br>
 <img align="center" height="30" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
 <img align="center" height="30" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
 <img align="center" height="30" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
